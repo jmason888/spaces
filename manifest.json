@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "SpacesBeta",
   "short_name": "Spaces",
-  "version": "0.24.3",
-  "version_name": "0.24 β3",
+  "version": "1.2.1",
+  "version_name": "1.2 β1",
   "description": "Intuitive tab management, save memory by setting aside windows full of tabs, and get them back later.",
   "update_url": "https://www.segv11.net/ext/SpacesBeta.xml",
   "browser_action": {
