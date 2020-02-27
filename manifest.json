@@ -17,6 +17,7 @@
       "js/db.js",
       "js/dbService.js",
       "js/spacesService.js",
+      "js/utils.js",
       "js/background.js"
     ],
     "persistent": true
