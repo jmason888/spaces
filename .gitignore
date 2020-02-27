@@ -7,3 +7,4 @@
 deploy.sh
 **/*.crx
 /policy
+node_modules
